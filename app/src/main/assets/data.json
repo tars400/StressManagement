@@ -1,0 +1,1604 @@
+{
+  "data": [
+    {
+      "title": "Question 1",
+      "description": "Sex?",
+      "options": [
+        {
+          "opt": "Male",
+          "val": 3
+        },
+        {
+          "opt": "Female",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 2",
+      "description": "Overall, how would you rate the quality of life for you and your family today?",
+      "options": [
+        {
+          "opt": "Excellent",
+          "val": 2
+        },
+        {
+          "opt": "Very good",
+          "val": 2
+        },
+        {
+          "opt": "Good",
+          "val": 2
+        },
+        {
+          "opt": "Fair",
+          "val": 1
+        },
+        {
+          "opt": "Poor",
+          "val": 1
+        },
+        {
+          "opt": "Don't know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 3",
+      "description": "Do you use the internet, at least occasionally?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 4",
+      "description": "Do you access the internet on a cell phone, tablet or other mobile handheld device, at least occasionally?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 5",
+      "description": "Do you have a cell phone... or a Blackberry or iPhone or other device that is also a cell phone?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 6",
+      "description": "Some cell phones are called “smartphones” because of certain features they have. Is your cell phone a smartphone, such as an iPhone, Android, Blackberry or Windows phone, or are you not sure?",
+      "options": [
+        {
+          "opt": "Yes, smartphone",
+          "val": 1
+        },
+        {
+          "opt": "No, not a smartphone",
+          "val": 2
+        },
+        {
+          "opt": "Not sure/Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 7",
+      "description": "Please tell me if you ever use your cell phone to do any of the following things.Do you ever use your cell phone to : \na. Send or receive email\nb. Send or receive text messages\nc. Take a picture\nd. Access the internet\ne. Look for health or medical information online\nf. Check your bank account balance or do any online banking",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 8",
+      "description": "Switching topics...In general, how would you rate your own health — excellent, good, only fair, or poor?",
+      "options": [
+        {
+          "opt": "Excellent",
+          "val": 1
+        },
+        {
+          "opt": "Good",
+          "val": 1
+        },
+        {
+          "opt": "Only fair",
+          "val": 2
+        },
+        {
+          "opt": "Poor",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 9",
+      "description": "Are you now living with any of the following health problems or conditions? \na. Diabetes or sugar diabetes\nb. High blood pressure\nc. Asthma, bronchitis, emphysema, or other lung conditions\nd. Heart disease, heart failure or heart attack\ne. Cancer",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 10",
+      "description": " In the last 12 months, have you personally? \na. Faced a serious medical emergency or crisis\nb. Gone to the emergency room or been hospitalized unexpectedly\nc. xperienced any significant change in your physical health, such as gaining or losing a lot of weight, becoming pregnant, or quitting smoking",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 11",
+      "description": "Thinking about the LAST time you had a serious health issue or experienced any significant change in your physical health... Did you get information, care or support from \na. A doctor or other health care professional\nb. Friends and family\nc. Others who have the same health condition",
+      "options": [
+        {
+          "opt": "Yes, online",
+          "val": 1
+        },
+        {
+          "opt": "Yes, offline",
+          "val": 1
+        },
+        {
+          "opt": "Yes, both online and offline",
+          "val": 1
+        },
+        {
+          "opt": "No, did not use this source",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 12",
+      "description": "In the past 12 months, have you provided UNPAID care to an adult relative or friend 18 years or older to help them take care of themselves? Unpaid care may include help with personal needs or household chores. It might be managing a person’s finances, arranging for outside services, or visiting regularly to see how they are doing. This person need not live with you aside from giving money, do you provide any other type of unpaid care to help them take care of themselves, such as help with personal needs, household chores, arranging for outside services, or other things?  ",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 13",
+      "description": "Do you provide this type of care to just one adult, or do you care for more than one adult?",
+      "options": [
+        {
+          "opt": "One adult only",
+          "val": 1
+        },
+        {
+          "opt": "Provide care to multiple adults",
+          "val": 1
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 14",
+      "description": "Is this person your parent or your mother-in-law or father-in-law, or not?",
+      "options": [
+        {
+          "opt": "Yes, parent or mother-in-law/father-in-law",
+          "val": 1
+        },
+        {
+          "opt": "No, not a parent or mother-in-law/father-in-law",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 15",
+      "description": "Are any of the adults you care for your parent or your mother-in-law or father-in-law, or not?",
+      "options": [
+        {
+          "opt": "Yes, parent or mother-in-law/father-in-law",
+          "val": 1
+        },
+        {
+          "opt": "No, not a parent or mother-in-law/father-in-law",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 16",
+      "description": "In the past 12 months, have you provided UNPAID care to any CHILD under the age of 18 because of a medical, behavioral, or other condition or disability?This could include care for ongoing medical conditions or serious short-term conditions, emotional or behavioral problems, or developmental problems, including mental retardation.",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 17",
+      "description": "Do you manage medications for the people you help care for, such as checking to be sure they are taken properly or refilling prescriptions, or is this not something you do for them?",
+      "options": [
+        {
+          "opt": "Yes, manage medications",
+          "val": 1
+        },
+        {
+          "opt": "No, not something R does for them",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 18",
+      "description": "When managing their medication, do you use any online or mobile tools, such as websites or apps, to research or keep track of medications?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 19",
+      "description": "Overall, would you say the internet has been HELPFUL or NOT HELPFUL in your ability to provide care and support for the person you are taking care of?",
+      "options": [
+        {
+          "opt": "Helpful",
+          "val": 1
+        },
+        {
+          "opt": "Not helpful",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 20",
+      "description": "And overall, has the internet been HELPFUL or NOT HELPFUL in your ability to cope with the stress of being a caregiver? ",
+      "options": [
+        {
+          "opt": "Helpful",
+          "val": 1
+        },
+        {
+          "opt": "Not helpful",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 21",
+      "description": "Now, we’d like to know if you’ve looked for information ONLINE about certain health or medical issues, either for yourself or someone else. Specifically, in the last 12 months, have you looked online for information about ?In the last 12 months, have you looked online for information about...  ? \na. A specific disease or medical problem\nb. A certain medical treatment or procedure\nc. Health insurance, including private insurance, Medicare or Medicaid\nd. Pregnancy and childbirth\ne. Food safety or recalls\nf. Drug safety or recalls\ng. Medical test results\nh. How to lose weight or how to control your weight\ni. How to reduce your health care costs\nj. Caring for an aging relative or friend\nk. A drug you saw advertised \nl. Any other health issue",
+      "options": [
+        {
+          "opt": "Yes, have done this",
+          "val": 1
+        },
+        {
+          "opt": "No, have not done this",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 22",
+      "description": "Thinking about the LAST time you went online for health or medical information...Did you go online to look for information related to YOUR OWN health or medical situation or SOMEONE ELSE’S health or medical situation?",
+      "options": [
+        {
+          "opt": "Own",
+          "val": 1
+        },
+        {
+          "opt": "Someone else’s",
+          "val": 3
+        },
+        {
+          "opt": "Both",
+          "val": 1
+        },
+        {
+          "opt": "Don’t know",
+          "val": 1
+        },
+        {
+          "opt": "Refused",
+          "val": 1
+        }
+      ]
+    },
+    {
+      "title": "Question 23",
+      "description": "Still thinking about the LAST time you went online to look for health information...How did you begin looking? Did you start…",
+      "options": [
+        {
+          "opt": "At a search engine such as Google, Bing or Yahoo",
+          "val": 1
+        },
+        {
+          "opt": "At a site that specializes in health information, like WebMD",
+          "val": 1
+        },
+        {
+          "opt": "At a more general site like Wikipedia, that contains information on all kinds of topics, OR",
+          "val": 1
+        },
+        {
+          "opt": "At a social network site like Facebook?",
+          "val": 1
+        },
+        {
+          "opt": "Other",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 24",
+      "description": "When looking for health information online, have you ever been asked to PAY for access to something you wanted to see on the internet? ",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 25",
+      "description": "The last time you were asked to PAY to access health content online, what did you do? Did you... ",
+      "options": [
+        {
+          "opt": "Pay for access (OR)",
+          "val": 1
+        },
+        {
+          "opt": "Try to find the same information somewhere else (OR)",
+          "val": 1
+        },
+        {
+          "opt": "Give up (OR)",
+          "val": 2
+        },
+        {
+          "opt": "Other",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 26",
+      "description": "Have you evergone online specifically to try to figure out what medical condition you or someone else might have?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 27",
+      "description": "Did the information you found online lead you to think that this was a condition that needed the attention of a doctor or other medical professional, or that it was something you could take care of at home?",
+      "options": [
+        {
+          "opt": "Needed attention of doctor",
+          "val": 1
+        },
+        {
+          "opt": "Could take care of at home",
+          "val": 2
+        },
+        {
+          "opt": "Both/in-between",
+          "val": 1
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 28",
+      "description": "Did a medical professional confirm what you thought the condition was with a medical diagnosis, did they offer a different medical opinion or diagnosis, or did you not visit a doctor or other medical professional for a diagnosis? ",
+      "options": [
+        {
+          "opt": "Yes, confirmed",
+          "val": 1
+        },
+        {
+          "opt": "No, did not confirm/offered different diagnosis",
+          "val": 2
+        },
+        {
+          "opt": "Did not visit a doctor or medical professional for a diagnosis",
+          "val": 2
+        },
+        {
+          "opt": "Confirmed part but not all of R’s diagnosis",
+          "val": 1
+        },
+        {
+          "opt": "Medical professional was unable to diagnose",
+          "val": 1
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 29",
+      "description": "Apart from looking for information online, there are many different activities related to health and medical issues a person might do on the internet.I’m going to read a list of online health-related activities you may or may not have done in the last 12 months.Just tell me if you happened to do each one, or not. (First,) in the last 12 months, have you\na. Signed up to receive email updates or alerts about health or medical issues\nb. Read or watched someone else's commentary or personal experience about health or medical issues online\nc. Gone online to find others who might have health concerns similar to yours\nd. Downloaded forms online or applied for health insurance online, including private insurance, Medicare, or Medicaid",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 30",
+      "description": "Still thinking just about the last 12 months, have you posted a health-related question online or shared your own personal health experience online in any way?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 31",
+      "description": "And what was it that you posted or shared online? Was it a specific QUESTION about your health, a COMMENT or STORY about your personal health experience, or BOTH a question and a comment? ",
+      "options": [
+        {
+          "opt": "Specific health question",
+          "val": 1
+        },
+        {
+          "opt": "Comments/Stories about personal health experiences",
+          "val": 2
+        },
+        {
+          "opt": "Both",
+          "val": 1
+        },
+        {
+          "opt": "Neither/Something else",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 32",
+      "description": "And the LAST time you posted or shared health material online, did you post it somewhere specifically to get feedback from a health professional, or did you post it somewhere it would be read by a more general audience of friends or other internet users?",
+      "options": [
+        {
+          "opt": "Health professional",
+          "val": 1
+        },
+        {
+          "opt": "More general audience",
+          "val": 2
+        },
+        {
+          "opt": "Both",
+          "val": 1
+        },
+        {
+          "opt": "Neither/Something else",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 33",
+      "description": "Thinking again about health-related activities you may or may not do online, have you… a. Consulted online rankings or reviews of doctors or other provider\nb. Consulted online rankings or reviews of hospitals or other medical facilities\nc. Consulted online reviews of particular drugs or medical treatments\nd. Posted a review online of a doctor\ne. Posted a review online of a hospital\nf. Posted your experiences with a particular drug or medical treatment online",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 34",
+      "description": "Do you receive any TEXT updates or alerts about health or medical issues, such as from your doctors or pharmacists?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 35",
+      "description": "On your cell phone, do you happen to have any software applications or “apps” that help you track or manage your health, or not? ",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 36",
+      "description": "What kind of health apps do you currently have on your phone? What health issue or topic do your apps deal with?",
+      "options": [
+        {
+          "opt": "Diet, food, calorie counter",
+          "val": 1
+        },
+        {
+          "opt": "Exercise, fitness, pedometer or heart rate monitoring (includes specific types of exercise like running, ab workouts, yoga, etc.)",
+          "val": 2
+        },
+        {
+          "opt": "Weight",
+          "val": 1
+        },
+        {
+          "opt": "Blood pressure",
+          "val": 1
+        },
+        {
+          "opt": "Blood sugar or diabetes",
+          "val": 1
+        },
+        {
+          "opt": "Sleep",
+          "val": 1
+        },
+        {
+          "opt": "Mood",
+          "val": 1
+        },
+        {
+          "opt": "Period or menstrual cycle",
+          "val": 1
+        },
+        {
+          "opt": "Pregnancy",
+          "val": 1
+        },
+        {
+          "opt": "Other",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 37",
+      "description": "Now thinking about your health overall...Do you currently keep track of your own weight, diet, or exercise routine, or is this not something you currently do? ",
+      "options": [
+        {
+          "opt": "Yes, keep track",
+          "val": 1
+        },
+        {
+          "opt": "No, not something R currently does",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 38",
+      "description": "How about any other health indicators or symptoms?Do you happen to track your own blood pressure, blood sugar, sleep patterns, headaches, or any other indicator?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 39",
+      "description": "Turning again to the UNPAID care you provide to family, friends or others... Do you happen to keep track of any health indicators or symptoms for any of the people you care for?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 40",
+      "description": "Thinking about the health indicator you pay the MOST attention to, either for yourself or someone else, how do you keep track of changes? Do you use..",
+      "options": [
+        {
+          "opt": "Paper, like a notebook or journal",
+          "val": 1
+        },
+        {
+          "opt": "A computer program, like a spreadsheet",
+          "val": 1
+        },
+        {
+          "opt": "A website or other online tool",
+          "val": 1
+        },
+        {
+          "opt": "An app or other tool on your phone or mobile device",
+          "val": 1
+        },
+        {
+          "opt": "A medical device, like a glucose meter",
+          "val": 1
+        },
+        {
+          "opt": "Or do you keep track just in your head?",
+          "val": 2
+        },
+        {
+          "opt": "Other",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 41",
+      "description": "How often do you update your recordsor notes about this health indicator? Do you do this on a regular basis, or only when something comes up or changes?",
+      "options": [
+        {
+          "opt": "Regular basis",
+          "val": 1
+        },
+        {
+          "opt": "Only when something comes up or changes",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 42",
+      "description": "Do you update this information…",
+      "options": [
+        {
+          "opt": "Several times a day",
+          "val": 1
+        },
+        {
+          "opt": "About once a day",
+          "val": 1
+        },
+        {
+          "opt": "3-5 days a week",
+          "val": 1
+        },
+        {
+          "opt": "1-2 days a week",
+          "val": 1
+        },
+        {
+          "opt": "Once or twice a month",
+          "val": 2
+        },
+        {
+          "opt": "Less than once a month",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 43",
+      "description": "Do you sharethese health trackingrecords or notes with anyone, either online or offline? ",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 44",
+      "description": " Who do you share this information with?",
+      "options": [
+        {
+          "opt": "Respondent’s spouse/partner",
+          "val": 1
+        },
+        {
+          "opt": "Respondent’s parent",
+          "val": 1
+        },
+        {
+          "opt": "Respondent’s brother/sister/sibling",
+          "val": 1
+        },
+        {
+          "opt": "Respondent’s child",
+          "val": 1
+        },
+        {
+          "opt": "Other Family member/Family relationship",
+          "val": 1
+        },
+        {
+          "opt": "Health or medical professional (includes doctor, nurse, therapist, physician’s assistant)",
+          "val": 2
+        },
+        {
+          "opt": "Member of Group: Church, community association, volunteer group",
+          "val": 1
+        },
+        {
+          "opt": "Friend",
+          "val": 1
+        },
+        {
+          "opt": "Personal trainer or health coach",
+          "val": 2
+        },
+        {
+          "opt": "Other",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 45",
+      "description": "In which of the following ways, if any, has tracking this health indicatoraffected your own health care routine or the way you care for someone else? (First,) has it... \na. Affected a decision about how to treat an illness or condition \nb. Changed your overall approach to maintaining your health or the health of someone you help take care of\nc. Led you to ask a doctor new questions, or to get a second opinion from another doctor",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 46",
+      "description": "What is your age?",
+      "options": [
+        {
+          "opt": "years[RECORD EXACT AGE 18-96]",
+          "val": 3
+        },
+        {
+          "opt": "97 or older",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 47",
+      "description": "Are you currently married, living with a partner, divorced, separated, widowed, or have you never been married?",
+      "options": [
+        {
+          "opt": "Married",
+          "val": 1
+        },
+        {
+          "opt": "Living with a partner",
+          "val": 1
+        },
+        {
+          "opt": "Divorced",
+          "val": 1
+        },
+        {
+          "opt": "Separated",
+          "val": 1
+        },
+        {
+          "opt": "Widowed",
+          "val": 1
+        },
+        {
+          "opt": "Never been married",
+          "val": 2
+        },
+        {
+          "opt": "Single",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 48",
+      "description": "Are you the parent or guardian of any children under age 18 now living in your household?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 49",
+      "description": "How many adults currently live in your household, INCLUDING YOURSELF? ",
+      "options": [
+        {
+          "opt": "[RECORD EXACT NUMBER 1-5]",
+          "val": 2
+        },
+        {
+          "opt": "6 or greater",
+          "val": 1
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 50",
+      "description": "What is the highest level of school you have completed or the highest degree you have received?",
+      "options": [
+        {
+          "opt": "Less than high school (Grades 1-8 or no formal schooling)",
+          "val": 2
+        },
+        {
+          "opt": "High school incomplete (Grades 9-11 or Grade 12 with NO diploma)",
+          "val": 1
+        },
+        {
+          "opt": "High school graduate (Grade 12 with diploma or GED certificate)",
+          "val": 1
+        },
+        {
+          "opt": "Some college, no degree (includes community college)",
+          "val": 1
+        },
+        {
+          "opt": "Two year associate degree from a college or university",
+          "val": 1
+        },
+        {
+          "opt": "Four year college or university degree/Bachelor’s degree (e.g., BS, BA, AB)",
+          "val": 1
+        },
+        {
+          "opt": "Some postgraduate or professional schooling, no postgraduate degree",
+          "val": 1
+        },
+        {
+          "opt": "Postgraduate or professional degree, including master’s, doctorate, medical or law degree (e.g., MA, MS, PhD, MD, JD)",
+          "val": 1
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 51",
+      "description": "Are you now employed full-time, part-time, retired, or are you not employed for pay? ",
+      "options": [
+        {
+          "opt": "Employed full-time",
+          "val": 1
+        },
+        {
+          "opt": "Employed part-time",
+          "val": 1
+        },
+        {
+          "opt": "Retired",
+          "val": 2
+        },
+        {
+          "opt": "Not employed for pay",
+          "val": 1
+        },
+        {
+          "opt": "Have own business/self-employed",
+          "val": 1
+        },
+        {
+          "opt": "Disabled",
+          "val": 1
+        },
+        {
+          "opt": "Student",
+          "val": 2
+        },
+        {
+          "opt": "Other",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 52",
+      "description": "Now I would like to ask you about any health insurance you CURRENTLY have that helps pay for the cost of health care. I’m going to read a list of a few types of health insurance, and I’d like you to tell me which of these you have, if any. (First,) are you now PERSONALLY covered by ? \na. Private health insurance offered through an employer or union? [IF ANSWERS “NO”: This could be insurance through a current job, a former job, your job or someone else’s job.]\nb. A private health insurance plan that you bought yourself\nc. Medicaid, [IF STATE CALIFORNIA:Medi-Cal], or some other type of state medical assistance for low-income people\nd. Medicare, the government program that pays health care bills for people over age 65 and for some disabled people ASK ITEM e IF NO TO OTHERS (INS1a=2,8,9 AND INS1b=2,8,9 AND INS1c=2,8,9 AND INS1d=2,8,9)\ne. Health insurance through ANY other source, including military or veteran’s coverage",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 53",
+      "description": "Medicare is health insurance coverage most people receive when they turn 65 and are eligible for Social Security. This includes different kinds of health plans offered THROUGH the Medicare program — like the plans called H-M-Os. Are you now covered by Medicare or by ANY Medicare plan?",
+      "options": [
+        {
+          "opt": "Yes, covered",
+          "val": 1
+        },
+        {
+          "opt": "No, not covered",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 54",
+      "description": "Does this mean you personally have NO health insurance now that would cover your doctor or hospital bills? ",
+      "options": [
+        {
+          "opt": "I do NOT have health insurance",
+          "val": 1
+        },
+        {
+          "opt": "I HAVE some kind of health insurance",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 55",
+      "description": "Are you, yourself, of Hispanic or Latino origin or descent, such as Mexican, Puerto Rican, Cuban, or some other Latin American background?",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 56",
+      "description": "What is your race? Are you white, black, Asian, or some other race?",
+      "options": [
+        {
+          "opt": "White",
+          "val": 3
+        },
+        {
+          "opt": "Black or African-American",
+          "val": 3
+        },
+        {
+          "opt": "Asian or Pacific Islander",
+          "val": 3
+        },
+        {
+          "opt": "Mixed race",
+          "val": 3
+        },
+        {
+          "opt": "Native American/American Indian",
+          "val": 3
+        },
+        {
+          "opt": "Other",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 57",
+      "description": "Were you born in the United States, on the island of Puerto Rico, or in another country? ",
+      "options": [
+        {
+          "opt": "U.S",
+          "val": 3
+        },
+        {
+          "opt": "Puerto Rico",
+          "val": 3
+        },
+        {
+          "opt": "Another country",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 58",
+      "description": "Last year -- that is in 2011 -- what was your total family income from all sources, before taxes?Just stop me when I get to the right category….",
+      "options": [
+        {
+          "opt": "Less than Rs.10,000",
+          "val": 1
+        },
+        {
+          "opt": "Rs.10,000 to under Rs.40,000",
+          "val": 3
+        },
+        {
+          "opt": "Rs.40,000 to under Rs.100,000",
+          "val": 3
+        },
+        {
+          "opt": "Rs.100,000 to under Rs.150,000 (OR)",
+          "val": 3
+        },
+        {
+          "opt": "Rs.150,000 or more",
+          "val": 3
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 59",
+      "description": "Does anyone in your household have a working cell phone? ",
+      "options": [
+        {
+          "opt": "Yes",
+          "val": 1
+        },
+        {
+          "opt": "No",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    },
+    {
+      "title": "Question 60",
+      "description": "Of all the telephone calls that you and other people in your household receive, are ",
+      "options": [
+        {
+          "opt": "All or almost all calls on a cell phone",
+          "val": 1
+        },
+        {
+          "opt": "Some on a cell phone and some on a regular home phone",
+          "val": 3
+        },
+        {
+          "opt": "All or almost all calls on a regular home phone",
+          "val": 2
+        },
+        {
+          "opt": "Don’t know",
+          "val": 3
+        },
+        {
+          "opt": "Refused",
+          "val": 3
+        }
+      ]
+    }
+  ]
+}
