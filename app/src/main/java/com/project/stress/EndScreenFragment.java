@@ -1,5 +1,4 @@
 package com.project.stress;
-
 import android.app.ProgressDialog;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -16,18 +15,15 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.project.stress.models.DataHolder;
 import com.project.stress.models.History;
 import com.project.stress.util.HistorySQLiteHelper;
-
 import net.sf.javaml.clustering.Clusterer;
 import net.sf.javaml.clustering.KMeans;
 import net.sf.javaml.core.Dataset;
 import net.sf.javaml.core.DenseInstance;
 import net.sf.javaml.core.Instance;
-
 import java.util.Date;
 
 
@@ -154,7 +150,7 @@ public class EndScreenFragment extends Fragment {
         getActivity().runOnUiThread(new Runnable() {
             public void run() {
                 new MaterialDialog.Builder(getActivity())
-                        .title("You belongs to:")
+                        .title("You belong to:")
                         .content("Cluster : " + cluster)
                         .positiveText("Okay")
                         .show();
