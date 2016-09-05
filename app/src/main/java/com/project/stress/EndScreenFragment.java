@@ -101,7 +101,7 @@ public class EndScreenFragment extends Fragment {
     private void processData() {
 
         final ProgressDialog progress = new ProgressDialog(getActivity());
-        progress.setMessage("Processing clusters. Please wait...");
+        progress.setMessage("Processing. Please wait...");
         progress.show();
 
         Thread thread = new Thread() {
